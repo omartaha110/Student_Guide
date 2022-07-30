@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مرشد الطلاب</string>
+    <string name="your_name">إسمك</string>
+    <string name="button1">المستوى الأول</string>
+    <string name="button2">المستوى الثانى</string>
+    <string name="button3">المستوى الثالث</string>
+    <string name="button4">المستوى الرابع</string>
+    <string name="textview1">جامعة المنصورة</string>
+    <string name="textview2">كلية الهندسة</string>
+    <string name="textview3">قسم الإلكترونيات والإتصالات</string>
+</resources>
