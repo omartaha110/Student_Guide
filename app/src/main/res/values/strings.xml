@@ -11,4 +11,18 @@
     <string name="textview1">Mansoura University</string>
     <string name="textview2">Faculty Of Engineering</string>
     <string name="textview3">Electronics And Communication Department</string>
+    <string name="register">Register</string>
+    <string name="inputUsername" translatable="false"></string>
+    <string name="btnRegister">Register</string>
+    <string name="alreadyhaveaccount">Already Have an Account?</string>
+    <string name="inputEmail" translatable="false" />
+    <string name="inputPassword" translatable="false" />
+    <string name="inputConfirmPassword" translatable="false" />
+    <string name="login">Login</string>
+    <string name="forgotpassword">Forgot Password?</string>
+    <string name="btnlogin">Login</string>
+    <string name="signup">Sign Up?</string>
+    <string name="dont_have_an_account">Don\'t have an Account?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
 </resources>

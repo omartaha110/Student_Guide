@@ -9,4 +9,14 @@
     <string name="textview1">جامعة المنصورة</string>
     <string name="textview2">كلية الهندسة</string>
     <string name="textview3">قسم الإلكترونيات والإتصالات</string>
+    <string name="register">" التسجيل"</string>
+    <string name="btnRegister">التسجيل</string>
+    <string name="alreadyhaveaccount">أنا لدى حساب بالفعل ؟</string>
+    <string name="login">سجل الدخول</string>
+    <string name="forgotpassword">نسيت كلمة المرور؟</string>
+    <string name="btnlogin">سجل الدخول</string>
+    <string name="signup">سجل الأن؟</string>
+    <string name="dont_have_an_account">أنت لا تملك حساب؟</string>
+    <string name="email">البريد الإلكترونى</string>
+    <string name="password">كلمة المرور</string>
 </resources>

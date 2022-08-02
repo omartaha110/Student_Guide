@@ -19,23 +19,6 @@
         app:layout_constraintStart_toStartOf="@+id/button"
         app:layout_constraintTop_toBottomOf="@+id/button3" />
 
-    <EditText
-        android:id="@+id/edit_TextName"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="16dp"
-        android:autofillHints=""
-        android:ems="10"
-        android:hint="@string/your_name"
-        android:inputType="textPersonName|textCapWords"
-        android:minHeight="48dp"
-        android:text="@string/Edit_TextName"
-        android:textColorHint="#AEA8A8"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView3"
-        tools:ignore="TextContrastCheck" />
-
     <ImageView
         android:id="@+id/imageView1"
         android:layout_width="70dp"

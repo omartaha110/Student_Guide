@@ -3,10 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/aliis/AndroidStudioProjects/Student_Guide/app/src/main/res/drawable/btn_bg.xml" value="0.1655" />
+        <entry key="..\:/Users/aliis/AndroidStudioProjects/Student_Guide/app/src/main/res/drawable/ic_baseline.xml" value="0.2265" />
+        <entry key="..\:/Users/aliis/AndroidStudioProjects/Student_Guide/app/src/main/res/drawable/ic_facebook.xml" value="0.1655" />
+        <entry key="..\:/Users/aliis/AndroidStudioProjects/Student_Guide/app/src/main/res/drawable/ic_google.xml" value="0.1655" />
+        <entry key="..\:/Users/aliis/AndroidStudioProjects/Student_Guide/app/src/main/res/drawable/input_bg.xml" value="0.1655" />
         <entry key="..\:/Users/aliis/AndroidStudioProjects/Student_Guide/app/src/main/res/layout-land/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/aliis/AndroidStudioProjects/Student_Guide/app/src/main/res/layout-land/activity_main2.xml" value="0.21770833333333334" />
         <entry key="..\:/Users/aliis/AndroidStudioProjects/Student_Guide/app/src/main/res/layout-land/main_activity.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/aliis/AndroidStudioProjects/Student_Guide/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/aliis/AndroidStudioProjects/Student_Guide/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aliis/AndroidStudioProjects/Student_Guide/app/src/main/res/layout/activity_register.xml" value="0.190625" />
         <entry key="..\:/Users/aliis/AndroidStudioProjects/Student_Guide/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2265" />
       </map>
     </option>
